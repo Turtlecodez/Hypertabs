@@ -1,5 +1,5 @@
 {
-  "name": "hypertabs",
+  "name": "your mom",
   "version": "1.0.0",
   "description": "Unofficial Hypertabs easy deployment version with TompHTTP bare server included.",
   "type": "module",
@@ -9,7 +9,7 @@
   "files": ["static", "src", ".gitignore", "app.json", ".replit", "replit.nix", "Procfile"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Hypertabs"
+    "url": "git+https://github.com/Turtlecodez/Hypertabs"
   },
   "keywords": ["amethystnetwork-dev"],
   "author": "",
